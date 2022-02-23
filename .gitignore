@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.pytest_cache
+.venv
+*.xlsx
+result.csv
+*.zip
+.idea
+*.log
+*.pyc
+
